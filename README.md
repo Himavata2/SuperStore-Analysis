@@ -39,6 +39,17 @@ To analyze the Superstore dataset and identify patterns in sales across categori
 * Created new feature: `order_month` for time-based analysis
 
 ---
+## 📊 Dashboard Preview
+
+<p align="center">
+  <img src="<img width="2267" height="1405" alt="Screenshot 2026-03-29 155302" src="https://github.com/user-attachments/assets/ffb3c7f4-7fc7-4b04-8e01-0659100336f1" />
+" width="30%" />
+  <img src="<img width="2068" height="975" alt="Screenshot 2026-03-29 155336" src="https://github.com/user-attachments/assets/e3dc006a-7533-49d7-9051-0f208bc52163" />
+" width="30%" />
+  <img src="<img width="1234" height="551" alt="Screenshot 2026-03-29 155344" src="https://github.com/user-attachments/assets/a71be0d4-7ca8-4fc8-9ea6-437250d9048b" />
+" width="30%" />
+</p>
+
 
 ## 📊 Key Insights
 
