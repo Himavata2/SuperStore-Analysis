@@ -122,7 +122,6 @@ The analysis reveals that revenue is primarily driven by the Technology category
 
 **Kumar Subham Barik**
 BTech, IIT Indore
-JEE Advanced AIR 4164
 
 ---
 
