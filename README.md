@@ -46,10 +46,10 @@ To analyze the Superstore dataset and identify patterns in sales across categori
 ![Dashboard 1](images/Dashboard.png)
 
 ### 🔹 Region Filter
-![Dashboard 2](images/Region slider.png)
+![Dashboard 2](images/Regionslider.png)
 
 ### 🔹 Top Products View
-![Dashboard 3](images/Top Cities.png)
+![Dashboard 3](images/TopCities.png)
 
 ## 📊 Key Insights
 
