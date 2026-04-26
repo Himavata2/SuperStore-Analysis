@@ -46,10 +46,10 @@ To analyze the Superstore dataset and identify patterns in sales across categori
 ![Dashboard 1](images/Dashboard.png)
 
 ### 🔹 Region Filter
-![Dashboard 2](images/Region slider.png)
+![Dashboard 2](images/Regionslider.png)
 
 ### 🔹 Top Products View
-![Dashboard 3](images/Top Cities.png)
+![Dashboard 3](images/TopCities.png)
 
 ## 📊 Key Insights
 
@@ -122,7 +122,6 @@ The analysis reveals that revenue is primarily driven by the Technology category
 
 **Kumar Subham Barik**
 BTech, IIT Indore
-JEE Advanced AIR 4164
 
 ---
 
